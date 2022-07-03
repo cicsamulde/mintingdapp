@@ -98,7 +98,7 @@ const Home: NextPage = () => {
           <img
              src={`/logo.png`}
                alt="Doodle Dick Logo"
-               width={500}
+               width={400}
                 className={styles.title}
             />
           {/* Description of your NFT Collection */}
